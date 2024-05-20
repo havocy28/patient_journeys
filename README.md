@@ -33,4 +33,5 @@ To use the code in this repository:
 ## Citation
 When referencing the use of this code, please cite the following paper:
 
-{Citation Pending Official Publication}
+Hur, Brian, Karin M. Verspoor, Timothy Baldwin, Laura Y. Hardefeldt, Caitlin Pfeiffer, Caroline Mansfield, Riati Scarborough, and James R. Gilkerson. “Using Natural Language Processing and Patient Journey Clustering for Temporal Phenotyping of Antimicrobial Therapies for Cat Bite Abscesses.” Preventive Veterinary Medicine 223 (2024): 106112. https://doi.org/10.1016/j.prevetmed.2023.106112.
+
